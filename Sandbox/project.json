@@ -1,5 +1,9 @@
 ﻿{
-  "dependencies": {},
+  "dependencies": {
+    "BenchmarkDotNet": "0.9.9",
+    "Microsoft.Tpl.Dataflow": "4.5.24",
+    "MongoDB.Driver": "2.3.0"
+  },
   "frameworks": {
     "net461": {}
   },
